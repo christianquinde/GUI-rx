@@ -10,7 +10,7 @@ En la siguiente Figura se muestra el diagrama secuencial de las herramientas en 
 # Funcionamiento
 
 ## 1: Cargar
-Primero se cargan los datos mediante el botón Cargar. Cabe mencionar que se debe seleccionar el mismo códec y puerto que se usa para transmitir.
+Primero se cargan los datos mediante el botón Cargar. Cabe mencionar que se debe seleccionar el mismo códec y puerto que se usa para transmitir. Y tener claro las IPs de origen y destino.
 
 ## 2: Recibir Video
 Después de cargar los datos se da clic al botón Recibir Video, para poder admitir flujos de video. Permitiendo realizar una captura con tcpdump.
